@@ -14,3 +14,5 @@ https://developer.spotify.com/documentation/general/guides/authorization/app-set
 For songs which have no singer in their name, I search spotify for their singer's name and arrange all the files with the same structure "{song} - {singer}" (so the 20 beatles songs I have won't be in a row... :weary: 
 
 The folders created are for Hebrew and English Songs and divided by their names.
+
+To use this program just put the songs in the folder "songs" and start the program. :blush:
